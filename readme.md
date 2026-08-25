@@ -50,8 +50,8 @@ interface for monitoring their farms and connected hives.
 ### Screenshots
 
 <p align="center">
-  <img src="assets/mobile/login.png" width="250">
-  <img src="assets/mobile/hive-monitor.png" width="250">
+  <img src="screenshots/mobile-login.png" width="250">
+  <img src="screenshots/mobile-hive-monitor.png" width="250">
 </p>
 
 ---
@@ -76,7 +76,7 @@ the entire platform.
 ### Dashboard
 
 <p align="center">
-  <img src="assets/dashboard/admin-dashboard.png" width="900">
+  <img src="screenshots/admin-dashboard.png" width="900">
 </p>
 
 ---
