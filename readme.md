@@ -50,7 +50,7 @@ interface for monitoring their farms and connected hives.
 ### Screenshots
 
 <p align="center">
-  <img src="screenshots/mobile-login.png" width="250">
+  <img src="screenshots/beewatch-loginPage.png" width="250">
   <img src="screenshots/mobile-hive-monitor.png" width="250">
 </p>
 
